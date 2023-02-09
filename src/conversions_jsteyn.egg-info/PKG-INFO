@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: conversions-jsteyn
+Version: 0.0.1
+Summary: A collection of conversion utility functions
+Author-email: "Jannetta S. Steyn" <jannetta@henning.org>
+Project-URL: Homepage, https://github.com/jsteyn/conversions
+Project-URL: Bug Tracker, https://github.com/jsteyn/conversions/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+A Python package with various handy conversion utilities

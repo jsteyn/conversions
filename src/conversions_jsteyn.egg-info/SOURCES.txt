@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/conversions/__init__.py
+src/conversions/conversions.py
+src/conversions_jsteyn.egg-info/PKG-INFO
+src/conversions_jsteyn.egg-info/SOURCES.txt
+src/conversions_jsteyn.egg-info/dependency_links.txt
+src/conversions_jsteyn.egg-info/top_level.txt

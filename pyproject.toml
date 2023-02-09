@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "conversions_jsteyn"
+version = "0.0.1"
+authors = [
+  { name="Jannetta S. Steyn", email="jannetta@henning.org" },
+]
+description = "A collection of conversion utility functions"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/jsteyn/conversions"
+"Bug Tracker" = "https://github.com/jsteyn/conversions/issues"
